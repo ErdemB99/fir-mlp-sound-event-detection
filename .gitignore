@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Datasets
+data/
+foa_dev/
+mic_dev/
+metadata_dev/
+
+# Model checkpoints and experiments
+results/
+experiments/
+
+# Large files
+*.wav
+*.npy
+*.pt
+*.pth
